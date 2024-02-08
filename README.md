@@ -1,7 +1,7 @@
 
 
 # yumeno_robot
-Twitter : [@yumeno-robot](https://twitter.com/yumeno_robot)  
+Twitter : [@yumeno_robot](https://twitter.com/yumeno_robot)  
 Github : [@yumeno-robot](https://github.com/yumeno-robot)
 <br /><br />
     
