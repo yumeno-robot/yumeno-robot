@@ -4,8 +4,6 @@
 # yumeno_robot
 Twitter : [@yumeno_robot](https://twitter.com/yumeno_robot)
 Github : [@yumeno-robot](https://github.com/yumeno-robot)
-YouTube : [@yumeno-robot](https://www.youtube.com/@yumeno-robot)
-Bluesky : [@yumeno-robot](https://bsky.app/profile/yumeno-robot.bsky.social)
 
 <br /><br />
 
