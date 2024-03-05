@@ -7,6 +7,8 @@ Twitter : [twitter.com/yumeno_robot](https://twitter.com/yumeno_robot)
 
 Github : [github.com/yumeno-robot](https://github.com/yumeno-robot) 
 
+Instagram : [instagram.com/yumeno_robot/](https://www.instagram.com/yumeno_robot/) 
+
 YouTube : [youtube.com/@yumeno-robot](https://www.youtube.com/@yumeno-robot) 
 
 Bluesky : [yumeno-robot.bsky.social](https://bsky.app/profile/yumeno-robot.bsky.social) 
