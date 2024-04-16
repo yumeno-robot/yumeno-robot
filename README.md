@@ -1,7 +1,7 @@
 
 
 # yumeno_robot
-HP : [yumeno-robot.github.io](https://yumeno-robot.github.io) 
+Blog : [yumeno-robot.github.io](https://yumeno-robot.github.io) 
 
 Twitter : [twitter.com/yumeno_robot](https://twitter.com/yumeno_robot) 
 
