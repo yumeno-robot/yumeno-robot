@@ -31,6 +31,6 @@ Bluesky : [yumeno-robot.bsky.social](https://bsky.app/profile/yumeno-robot.bsky.
 ### Datas
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=yumeno-robot&show_icons=true&locale=en&layout=compact)
 
-![Tacopic's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumeno-robot&show_icons=true&theme=vue-dark)   
+![Tacopic's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumeno-robot&show_icons=true&theme=vue-light)   
 </table>
  
