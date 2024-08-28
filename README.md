@@ -4,14 +4,16 @@
 
 ## 🤖 About Me
 
-Welcome to my GitHub profile! I’m passionate about robotics and software development, always eager to explore and create new things.
+Welcome to my GitHub profile!
 
----
+I'm yumeno-robot, a high school RoboCuper.
+
+I've loved crafting since I was little, and I joined the science club in middle school, where I developed an interest in robot development. Currently, I'm challenging myself with a wide range of activities, from software to hardware, exploring different aspects of robotics.
 
 🌱 **Currently Learning:** Advanced Robotics, Machine Learning  
-🎯 **Goals for 2024:** Contribute to open-source projects and create my own AI-powered robot.
+🎯 **Goals :** Participated in RoboCup Junior Japan Open.
 
----
+<hr>
 
 <br>
 
@@ -25,17 +27,17 @@ Welcome to my GitHub profile! I’m passionate about robotics and software devel
 
 ![Tools](https://skillicons.dev/icons?i=vscode,unity,github,discord,git,ai,twitter,gmail)
 
----
+<hr>
 
 <br>
 
 ## 📚 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yumeno-robot&show_icons=true&locale=en&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=yumeno-robot&show_icons=true&locale=en&layout=compact&theme=white)
 
-![yumeno_robot's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumeno-robot&show_icons=true&theme=vue-dark)
+![yumeno_robot's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumeno-robot&show_icons=true&theme=vue-white)
 
----
+<hr>
 
 <br>
 
@@ -56,7 +58,7 @@ Welcome to my GitHub profile! I’m passionate about robotics and software devel
 > [!CAUTION]
 > There may be potential consequences when applying this information without further research or verification.
 
----
+<hr>
 
 <br>
 
