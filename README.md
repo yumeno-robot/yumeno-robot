@@ -41,15 +41,20 @@ Welcome to my GitHub profile! I’m passionate about robotics and software devel
 
 ## 🌀 Others
 
-> [!NOTE]
+> [!NOTE]  
+> This content is shared by an individual who is developing robots.
 
 > [!TIP]
+> The information provided covers various aspects, from hardware to software.
 
-> [!IMPORTANT]
+> [!IMPORTANT]  
+> Not all of the information provided can be guaranteed to be accurate.
 
-> [!WARNING]
+> [!WARNING]  
+> Please take into consideration that this content is shared based on personal experience and may not be fully verified.
 
 > [!CAUTION]
+> There may be potential consequences when applying this information without further research or verification.
 
 ---
 
