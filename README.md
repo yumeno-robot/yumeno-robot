@@ -1,54 +1,60 @@
-https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif
-
 # yumeno_robot
 
-Blog : [yumeno-robot.github.io](https://yumeno-robot.github.io)
+<br>
 
-Twitter : [twitter.com/yumeno_robot](https://twitter.com/yumeno_robot)
+## 🤖 About Me
 
-Github : [github.com/yumeno-robot](https://github.com/yumeno-robot)
+Welcome to my GitHub profile! I’m passionate about robotics and software development, always eager to explore and create new things.
 
-Instagram : [instagram.com/yumeno_robot/](https://www.instagram.com/yumeno_robot/)
+---
 
-YouTube : [youtube.com/@yumeno-robot](https://www.youtube.com/@yumeno-robot)
+🌱 **Currently Learning:** Advanced Robotics, Machine Learning  
+🎯 **Goals for 2024:** Contribute to open-source projects and create my own AI-powered robot.
 
-Bluesky : [yumeno-robot.bsky.social](https://bsky.app/profile/yumeno-robot.bsky.social)
-<br /><br />
+---
 
-# Skills
+<br>
 
-<table>
+## 🛠 Skills
 
-### Languages, Frameworks
+### Languages & Frameworks
 
-![Skills & Tools](https://skillicons.dev/icons?i=arduino,c,cpp,cs,py,html,css,js,raspberrypi)
-<br /><br />
+![Languages](https://skillicons.dev/icons?i=arduino,c,cpp,cs,py,html,css,js,raspberrypi)
 
 ### Tools
 
-![Skills & Tools](https://skillicons.dev/icons?i=vscode,unity,github,discord,git,ai,twitter,gmail)
-<br /><br />
+![Tools](https://skillicons.dev/icons?i=vscode,unity,github,discord,git,ai,twitter,gmail)
 
-### Datas
+---
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yumeno-robot&show_icons=true&locale=en&layout=compact)
+<br>
 
-![Tacopic's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumeno-robot&show_icons=true&theme=vue-light)
+## 📚 GitHub Stats
 
-</table>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=yumeno-robot&show_icons=true&locale=en&layout=compact&theme=dark)
 
+![yumeno_robot's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumeno-robot&show_icons=true&theme=vue-dark)
 
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
+---
+
+<br>
+
+## 🌀 Others
+
+> [!NOTE]
 
 > [!TIP]
-> Optional information to help a user be more successful.
 
-> [!IMPORTANT]  
-> Crucial information necessary for users to succeed.
+> [!IMPORTANT]
 
-> [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
+> [!WARNING]
 
 > [!CAUTION]
-> Negative potential consequences of an action.
+
+---
+
+<br>
+
+## 🤝Lastly
+
+Thank you for visiting my profile! Feel free to reach out or check out my projects. 🚀
